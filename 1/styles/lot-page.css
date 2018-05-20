@@ -1,0 +1,72 @@
+.lot-name {
+	margin-bottom: 40px;
+}
+
+.imgs-gallery {
+	display: inline-block;
+	vertical-align: top;
+	min-width: 400px;
+	width : 40%;
+	min-height: 400px;
+}
+
+.imgs-list {
+	vertical-align: top;
+	display: inline-block;
+	width: 25%;
+	margin-left: 10px;
+	margin-top: 20px;
+}
+
+.lot-image-small {
+	display: block;
+	width: 100%;
+	padding: 5px;
+	border: 1px solid rgba(220, 220, 220, 1);
+	border-radius: 4px;
+}
+
+.lot-image-small:hover {
+	box-shadow: 0 0 2px 2px rgba(0, 140, 186, 0.7);
+}
+
+.current-img {
+	vertical-align: top;
+	display: inline-block;
+	width: 70%;
+	margin-top: 20px; 
+}
+
+.lot-image-normal {
+	display: block;
+	margin: auto;
+}
+
+.lot-des {
+	display: inline-block;
+	vertical-align: top;
+	width: 55%;
+	padding-left: 30px;
+}
+
+.des-line p {
+	display: inline-block;
+	margin-left: 20px;
+	width: 35%;
+}
+
+.des-line span {
+	display: inline-block;
+	width: 30%;
+	margin-left: 20px;
+	color: #aaaaaa;
+}
+
+.des-text p{
+	text-indent: 30px;
+}
+
+.p1 {
+	color: red;
+}
+
